@@ -1,0 +1,7 @@
+class Test{
+int a=10;
+intb=20;
+public static void main(){
+system.out.println("hye");
+}
+}
